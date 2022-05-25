@@ -1,3 +1,5 @@
+'use strict';
+
 $(function(){
  $('#is_hamburger').on('click', function(){
   $('.bl_hamburger').toggleClass('is_close');
