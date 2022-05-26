@@ -884,6 +884,14 @@ About us
   opacity: 1;
 }
 
+.bl_hamburger.is_close > span {
+    background-color: #fff;
+}
+
+.bl_hamburger_txt.is_close {
+    color: #fff;
+}
+
 @media screen and (max-width: 768px) {
   .bl_headerNav {
     width: 100vw;
