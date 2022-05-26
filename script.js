@@ -4,6 +4,7 @@ $(function(){
  $('#is_hamburger').on('click', function(){
   $('.bl_hamburger').toggleClass('is_close');
   $('.bl_headerNav').toggleClass('is_active');
+  $('.bl_hamburger_txt').toggleClass('is_close');
     });
 });
 
