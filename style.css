@@ -463,7 +463,7 @@ li {
 }
 
 .bl_mainVisual_halfHeight .bl_mainVisual_img {
-  background-image: url(../image/heading-contact.png);
+  background-image: url(image/heading-contact.png);
 }
 
 .bl_mainVisual_halfHeight {
@@ -602,7 +602,7 @@ About us
 -------------------------------*/
 /*-----メインビジュアル-----*/
 .bl_about .bl_mainVisual_img {
-  background-image: url(../image/heading-img.png);
+  background-image: url(image/heading-img.png);
 }
 
 /*-----VISION-----*/
